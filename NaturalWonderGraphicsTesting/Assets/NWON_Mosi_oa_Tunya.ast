@@ -651,7 +651,7 @@
 						<m_position>
 							<x>-26.500000</x>
 							<y>20</y>
-							<z>1</z>
+							<z>0</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -687,7 +687,7 @@
 						<m_position>
 							<x>-26.500000</x>
 							<y>15</y>
-							<z>1</z>
+							<z>0</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -723,7 +723,7 @@
 						<m_position>
 							<x>-26.500000</x>
 							<y>10</y>
-							<z>1</z>
+							<z>0</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -759,7 +759,7 @@
 						<m_position>
 							<x>-26.500000</x>
 							<y>5</y>
-							<z>1</z>
+							<z>0</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -795,7 +795,7 @@
 						<m_position>
 							<x>-26.500000</x>
 							<y>0</y>
-							<z>1</z>
+							<z>0</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
@@ -831,7 +831,7 @@
 						<m_position>
 							<x>-26.500000</x>
 							<y>-5</y>
-							<z>1</z>
+							<z>0</z>
 						</m_position>
 						<m_orientation>
 							<x>0.000000</x>
