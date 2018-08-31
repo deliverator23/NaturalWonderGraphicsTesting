@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameInfo>
+	<Types>
+		<Row Type="FEATURE_GIBRALTAR" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_SINAI" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_BARRINGER_CRATER" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_KAILASH" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_KRAKATOA" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_OLD_FAITHFUL" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_LAKE_VICTORIA" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_CERRO_DE_POTOSI" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_SRI_PADA" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_GRAND_MESA" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_SALAR_DE_UYUNI" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_MOTLATSE_CANYON" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_WULINGYUAN" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_NAMIB" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_MOSI_OA_TUNYA" Kind="KIND_FEATURE"/>
+	</Types>
+	<Features>
+		<Row FeatureType="FEATURE_GIBRALTAR" Name="Rock of Gibraltar" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_SINAI" Name="Mount Sinai" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" Name="Barringer Crater" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_KAILASH" Name="Mount Kailash" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_KRAKATOA" Name="Krakatoa" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" Name="Old Faithful" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" Name="Lake Victoria" Lake="1" Tiles="4" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" Name="Cerro Rico" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_SRI_PADA" Name="Sri Pada" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" Name="Grand Mesa" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" Name="Salar de Uyuni" Tiles="4" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" Name="Motlatse Canyon" Tiles="4" FollowRulesInWB="false" CustomPlacement="PLACEMENT_RORAIMA"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" Name="Wulingyuan" Tiles="2" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_NAMIB" Name="Namib" Tiles="3" FollowRulesInWB="false" CustomPlacement="PLACEMENT_ZHANGYE_DANXIA"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" Name="Mosi-oa-Tunya" Tiles="1" FollowRulesInWB="false"/>
+	</Features>
+	<Feature_ValidTerrains>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_SINAI" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_BARRINGER_CRATER" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_KAILASH" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_KRAKATOA" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_OLD_FAITHFUL" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_LAKE_VICTORIA" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_CERRO_DE_POTOSI" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_SRI_PADA" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_GRAND_MESA" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_SALAR_DE_UYUNI" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOTLATSE_CANYON" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_MOSI_OA_TUNYA" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+	</Feature_ValidTerrains>
+</GameInfo>
