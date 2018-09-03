@@ -649,8 +649,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-26.500000</x>
-							<y>20</y>
+							<x>25</x>
+							<y>25</y>
 							<z>0</z>
 						</m_position>
 						<m_orientation>
@@ -685,8 +685,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-26.500000</x>
-							<y>15</y>
+							<x>-25</x>
+							<y>-25</y>
 							<z>0</z>
 						</m_position>
 						<m_orientation>
@@ -721,8 +721,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-26.500000</x>
-							<y>10</y>
+							<x>25</x>
+							<y>-25</y>
 							<z>0</z>
 						</m_position>
 						<m_orientation>
@@ -757,8 +757,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-26.500000</x>
-							<y>5</y>
+							<x>-13.58333333</x>
+							<y>19.58333333</y>
 							<z>0</z>
 						</m_position>
 						<m_orientation>
@@ -793,8 +793,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-26.500000</x>
-							<y>0</y>
+							<x>-17.1666</x>
+							<y>-2.833333</y>
 							<z>0</z>
 						</m_position>
 						<m_orientation>
@@ -829,8 +829,8 @@
 							</m_Values>
 						</m_CookParams>
 						<m_position>
-							<x>-26.500000</x>
-							<y>-5</y>
+							<x>17.5</x>
+							<y>-0.666</y>
 							<z>0</z>
 						</m_position>
 						<m_orientation>

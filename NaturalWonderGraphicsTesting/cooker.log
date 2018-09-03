@@ -1,12 +1,11 @@
 Starting AssetCooker...
-OPENCL ACCELERATION IS NOT AVAILABLE!  Your cooks will be SLOOOOWWW!  Please inform an engineer.
 XLP cook starting...
-C:\Users\iainm\Documents\Firaxis ModBuddy\Civilization VI\NaturalWonderGraphicsTesting\NaturalWonderGraphicsTesting\XLPs\Water.xlp
-Opened output file: C:\Users\iainm\Documents\My Games\Sid Meier's Civilization VI\Mods\NaturalWonderGraphicsTesting\Platforms\MacOS\BLPs/Water.blp    For XLP: 'C:\Users\iainm\Documents\Firaxis ModBuddy\Civilization VI\NaturalWonderGraphicsTesting\NaturalWonderGraphicsTesting\XLPs\Water.xlp'
+D:\Civ6Mod\gitproject\NaturalWonderGraphicsTesting\NaturalWonderGraphicsTesting\XLPs\Water.xlp
+Opened output file: C:\Users\User\Documents\My Games\Sid Meier's Civilization VI\Mods\NaturalWonderGraphicsTesting\Platforms\MacOS\BLPs/Water.blp    For XLP: 'D:\Civ6Mod\gitproject\NaturalWonderGraphicsTesting\NaturalWonderGraphicsTesting\XLPs\Water.xlp'
 Starting 'Water'
-Load finished for: 'Water' in 0.005 seconds
-Cook finished for: 'Water' in 0.035 seconds
+Load finished for: 'Water' in 0.003 seconds
+Cook finished for: 'Water' in 0.026 seconds
 Disk write finished for: 'Water' in 0.011 seconds
 Cleanup finished for: 'Water' in 0.000 seconds
 XLP cook completed with success.
-Cook completed in 0.118 seconds
+Cook completed in 1.570 seconds

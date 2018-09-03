@@ -41,6 +41,12 @@
     <Content Include="Assets\FXm_Mosi_Waterfall.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\NWON_2Tile_Decal.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\NWON_3Tile_Decal.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\NWON_Crater.ast">
       <SubType>Content</SubType>
     </Content>
@@ -137,6 +143,9 @@
     <Content Include="Materials\RiverMod.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\TerrainElement_Angel_Glacier.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\TerrainElement_Barringer_Crater.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -167,7 +176,13 @@
     <Content Include="Materials\TerrainElement_Namib.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\TerrainElement_OkavangoDelta.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\TerrainElement_Old_Faithful.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\TerrainElement_Ounianga.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\TerrainElement_Salar_de_Uyuni.mtl">
@@ -177,6 +192,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\TerrainElement_Sri_Pada.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\TerrainElement_VredefortDome.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\TER_Grassland_ShortBlend.mtl">
@@ -192,6 +210,24 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\TER_White_Cliff_Mountain.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\ThreeTileDecalGuide.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\TwoTileDecalGuide.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\AngelGlacier_HM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\AngelGlacier_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\AngelGlacier_H_BLEND.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\AngelGlacier_H_BLEND.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Barringer_Crater_Revealed.DDS">
@@ -942,6 +978,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\TER_Volcano_Heightmap_1024.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Vredefort_HM.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Vredefort_HM.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Vredefort_H_BLEND.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Vredefort_H_BLEND.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\WHITE_HM.dds">
