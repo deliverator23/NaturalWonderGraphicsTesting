@@ -32,7 +32,7 @@
 				<m_ParamName text="BlockingHex6"/>
 			</Element>
 			<Element class="AssetObjects::ObjectValue">
-				<m_ObjectName text="Namib_ID"/>
+				<m_ObjectName text="Namib_ID2"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="IDMap"/>
 			</Element>

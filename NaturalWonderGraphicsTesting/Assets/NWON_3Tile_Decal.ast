@@ -39,8 +39,8 @@
 	<m_GeometrySet>
 		<m_ModelInstances>
 			<Element>
-				<m_Name text="TerrainElement_ThreeHexTri_Decal"/>
-				<m_GeoName text="TerrainElement_ThreeHexTri_Decal"/>
+				<m_Name text="TerrainElement_ThreeHex_Decal"/>
+				<m_GeoName text="TerrainElement_ThreeHex_Decal"/>
 				<m_GroupStates>
 					<Element>
 						<m_Values>
@@ -50,14 +50,10 @@
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
-								<Element class="AssetObjects..BoolValue">
-									<m_bValue>true</m_bValue>
-									<m_ParamName text="Visible"/>
-								</Element>
 							</m_Values>
 						</m_Values>
-						<m_GroupName text="TwoHexNWONDecal"/>
-						<m_MeshName text="TerrainElement_ThreeHexTri_Decal"/>
+						<m_GroupName text="ThreeHexNWONDecal"/>
+						<m_MeshName text="TerrainElement_ThreeHex_Decal#M"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

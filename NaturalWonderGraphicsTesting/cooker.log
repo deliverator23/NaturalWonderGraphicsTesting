@@ -4,8 +4,8 @@ D:\Civ6Mod\gitproject\NaturalWonderGraphicsTesting\NaturalWonderGraphicsTesting\
 Opened output file: C:\Users\User\Documents\My Games\Sid Meier's Civilization VI\Mods\NaturalWonderGraphicsTesting\Platforms\MacOS\BLPs/Water.blp    For XLP: 'D:\Civ6Mod\gitproject\NaturalWonderGraphicsTesting\NaturalWonderGraphicsTesting\XLPs\Water.xlp'
 Starting 'Water'
 Load finished for: 'Water' in 0.003 seconds
-Cook finished for: 'Water' in 0.026 seconds
-Disk write finished for: 'Water' in 0.011 seconds
-Cleanup finished for: 'Water' in 0.000 seconds
+Cook finished for: 'Water' in 0.027 seconds
+Disk write finished for: 'Water' in 0.012 seconds
+Cleanup finished for: 'Water' in 0.001 seconds
 XLP cook completed with success.
-Cook completed in 1.570 seconds
+Cook completed in 1.667 seconds

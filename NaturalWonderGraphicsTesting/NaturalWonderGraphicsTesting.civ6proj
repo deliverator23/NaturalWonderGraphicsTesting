@@ -38,6 +38,12 @@
     <Content Include="ArtDefs\TerrainStyle.artdef">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\Dead_Tree_B_Sm.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Dead_Tree_C_Sm.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\FXm_Mosi_Waterfall.ast">
       <SubType>Content</SubType>
     </Content>
@@ -81,6 +87,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Assets\RES_Silver_Rock_Indiv_03.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Dead_Tree_B_Lg.ast">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Assets\Dead_Tree_C_Lg.ast">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Data\NW.xml">
@@ -201,6 +213,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\TER_Mesa.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\TER_Red_Desert_Base.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\TER_Salt_Flat.mtl">
