@@ -2,30 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b046025-a9e4-46a6-af82-3480b39f9642" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Geometries/TerrainElement_ThreeHex_Decal.fgx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Textures/3TileDecalGuide5.DDS" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Textures/Namib_ID2.dds" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Textures/TER_Red_Desert_B.dds" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Assets/Dead_Tree_B_Lg.ast" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Assets/Dead_Tree_B_Sm.ast" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Assets/Dead_Tree_C_Lg.ast" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Assets/Dead_Tree_C_Sm.ast" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Geometries/TerrainElement_ThreeHex_Decal.geo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Materials/TER_Red_Desert_Base.mtl" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Textures/3TileDecalGuide5.tex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Textures/Namib_ID2.tex" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Textures/TER_Red_Desert_B.tex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting.v12.civ6suo" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting.v12.civ6suo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Textures/TER_Red_Desert_Hills_B.dds" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Materials/TER_Red_Desert_Hills.mtl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Textures/TER_Red_Desert_Hills_B.tex" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Materials/TER_Red_Desert_Base.mtl" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/ArtDefs/Clutter.artdef" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/ArtDefs/Clutter.artdef" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/ArtDefs/Features.artdef" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/ArtDefs/Features.artdef" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/ArtDefs/TerrainStyle.artdef" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/ArtDefs/TerrainStyle.artdef" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Assets/NWON_3Tile_Decal.ast" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Assets/NWON_3Tile_Decal.ast" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Materials/TerrainElement_Namib.mtl" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Materials/TerrainElement_Namib.mtl" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Materials/ThreeTileDecalGuide.mtl" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/Materials/ThreeTileDecalGuide.mtl" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/NaturalWonderGraphicsTesting.civ6proj" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/NaturalWonderGraphicsTesting.civ6proj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/XLPs/TerrainMaterialSet_Base.xlp" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/XLPs/TerrainMaterialSet_Base.xlp" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/XLPs/clutter.xlp" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/XLPs/clutter.xlp" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/cooker.log" afterPath="$PROJECT_DIR$/NaturalWonderGraphicsTesting/cooker.log" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -147,7 +132,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Work on Mosi, Angel Glacier, Ounianga, Vredefort and Okavango." />
-    <option name="LAST_COMMIT_MESSAGE" value="Work on Mosi, Angel Glacier, Ounianga, Vredefort and Okavango." />
+    <MESSAGE value="Namib Clutter and colouring, 3 tile decal guide." />
+    <option name="LAST_COMMIT_MESSAGE" value="Namib Clutter and colouring, 3 tile decal guide." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />

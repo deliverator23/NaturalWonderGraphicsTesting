@@ -215,7 +215,7 @@
     <Content Include="Materials\TER_Mesa.mtl">
       <SubType>Content</SubType>
     </Content>
-    <Content Include="Materials\TER_Red_Desert_Base.mtl">
+    <Content Include="Materials\TER_Red_Desert_Hills.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\TER_Salt_Flat.mtl">

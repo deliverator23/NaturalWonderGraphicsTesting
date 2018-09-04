@@ -1983,7 +1983,7 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="TER_Red_Desert_Base"/>
+							<m_EntryName text="TER_Red_Desert_Hills"/>
 							<m_XLPClass text="TerrainMaterial"/>
 							<m_XLPPath text="TerrainMaterialSet_Base.xlp"/>
 							<m_BLPPackage text="terrain/TerrainMaterialSet_Base"/>
@@ -1993,7 +1993,7 @@
 					</m_Values>
 				</m_Fields>
 				<m_ChildCollections/>
-				<m_Name text="TER_Red_Desert_Base"/>
+				<m_Name text="TER_Red_Desert_Hills"/>
 				<m_AppendMergedParameterCollections>false</m_AppendMergedParameterCollections>
 			</Element>
 		</Element>

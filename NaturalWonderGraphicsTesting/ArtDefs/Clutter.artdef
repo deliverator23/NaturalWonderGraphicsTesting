@@ -4814,7 +4814,7 @@
 										<m_ParamName text="Asset"/>
 									</Element>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>1</m_fValue>
+										<m_fValue>2</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -4875,7 +4875,7 @@
 										<m_ParamName text="Asset"/>
 									</Element>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>1</m_fValue>
+										<m_fValue>2</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -4936,7 +4936,7 @@
 										<m_ParamName text="Asset"/>
 									</Element>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>1</m_fValue>
+										<m_fValue>2</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
@@ -4997,7 +4997,7 @@
 										<m_ParamName text="Asset"/>
 									</Element>
 									<Element class="AssetObjects:FloatValue">
-										<m_fValue>1</m_fValue>
+										<m_fValue>2</m_fValue>
 										<m_ParamName text="Scale"/>
 									</Element>
 									<Element class="AssetObjects:IntValue">
