@@ -3,7 +3,7 @@
 	<m_CookParams>
 		<m_Values>
 			<Element class="AssetObjects::ObjectValue">
-				<m_ObjectName text="Namib_HM3"/>
+				<m_ObjectName text="Namib_HM7"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Heightmap"/>
 			</Element>

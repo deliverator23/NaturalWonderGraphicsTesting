@@ -65,6 +65,9 @@
     <Content Include="Assets\NWON_Mosi_oa_Tunya.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\NWON_Okavango.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\NWON_Old_Faithful.ast">
       <SubType>Content</SubType>
     </Content>
@@ -149,6 +152,9 @@
     <Content Include="Materials\NWON_Mosi_oa_Tunya_Decal.mtl">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Materials\NWON_Okavango_Decal.mtl">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Materials\NWON_SriPada_Decal.mtl">
       <SubType>Content</SubType>
     </Content>
@@ -231,6 +237,48 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\TwoTileDecalGuide.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\2TileDecalGuide.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\2TileDecalGuide.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\2TileDecalGuide2.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\2TileDecalGuide2.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\2TileDecalGuide3.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\2TileDecalGuide3.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\3TileDecalGuide.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\3TileDecalGuide.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\3TileDecalGuide2.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\3TileDecalGuide2.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\3TileDecalGuide3.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\3TileDecalGuide3.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\3TileDecalGuide5.DDS">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\3TileDecalGuide5.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\AngelGlacier_HM.dds">
@@ -635,6 +683,12 @@
     <Content Include="Textures\Namib_HM3.tex">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Textures\Namib_HM7.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Namib_HM7.tex">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Textures\Namib_H_BLEND2.dds">
       <SubType>Content</SubType>
     </Content>
@@ -645,6 +699,12 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\Namib_ID.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Namib_ID2.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\Namib_ID2.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\NWON_Crater_Decal4_B.dds">
@@ -963,6 +1023,18 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\TER_Mountain_LessDeep_H.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\TER_Red_Desert_B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\TER_Red_Desert_B.tex">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\TER_Red_Desert_Hills_B.dds">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Textures\TER_Red_Desert_Hills_B.tex">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Textures\TER_Salt_Flat_B2.dds">

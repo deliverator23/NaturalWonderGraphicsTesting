@@ -3,7 +3,7 @@
 	<m_CookParams>
 		<m_Values>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="TER_Red_Desert_Hills_B"/>
+				<m_ObjectName text="TER_Red_Desert_Hills_B3"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="BaseColor"/>
 			</Element>
@@ -23,7 +23,7 @@
 				<m_ParamName text="FOWColor"/>
 			</Element>
 			<Element class="AssetObjects..IntValue">
-				<m_nValue>5</m_nValue>
+				<m_nValue>4</m_nValue>
 				<m_ParamName text="BlendLevel"/>
 			</Element>
 			<Element class="AssetObjects..ObjectValue">
@@ -42,7 +42,7 @@
 				<m_ParamName text="AlphaIdentifier"/>
 			</Element>
 			<Element class="AssetObjects..IntValue">
-				<m_nValue>24</m_nValue>
+				<m_nValue>26</m_nValue>
 				<m_ParamName text="Priority"/>
 			</Element>
 		</m_Values>
