@@ -3,7 +3,7 @@
 	<m_CookParams>
 		<m_Values>
 			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="NWON_DeadSea_HM"/>
+				<m_ObjectName text="Ounianga_HM7"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="Heightmap"/>
 			</Element>
@@ -31,8 +31,8 @@
 				<m_bValue>false</m_bValue>
 				<m_ParamName text="BlockingHex6"/>
 			</Element>
-			<Element class="AssetObjects..ObjectValue">
-				<m_ObjectName text="NWON_DeadSea_ID"/>
+			<Element class="AssetObjects::ObjectValue">
+				<m_ObjectName text="Ounianga_ID"/>
 				<m_eObjectType>TEXTURE</m_eObjectType>
 				<m_ParamName text="IDMap"/>
 			</Element>

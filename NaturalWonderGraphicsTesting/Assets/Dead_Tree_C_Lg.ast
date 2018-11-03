@@ -22,22 +22,22 @@
 	</m_BehaviorData>
 	<m_GeometrySet>
 		<m_ModelInstances>
-            <Element>
-				<m_Name text="Tree_C_Lg_PIL"/>
-				<m_GeoName text="Tree_C_Lg_PIL"/>
+			<Element>
+				<m_Name text="Tree_B_Lg_PIL"/>
+				<m_GeoName text="Tree_B_Lg_PIL"/>
 				<m_GroupStates>
 					<Element>
 						<m_Values>
 							<m_Values>
 								<Element class="AssetObjects..ObjectValue">
-									<m_ObjectName text="Pillaged_Foliage"/>
+									<m_ObjectName text="Pillaged_Foliage2"/>
 									<m_eObjectType>MATERIAL</m_eObjectType>
 									<m_ParamName text="Material"/>
 								</Element>
 							</m_Values>
 						</m_Values>
 						<m_GroupName text="Pillaged_Foliage"/>
-						<m_MeshName text="Tree_C_Lg_PIL"/>
+						<m_MeshName text="Tree_B_Lg_PIL"/>
 						<m_StateName text="Default"/>
 					</Element>
 				</m_GroupStates>

@@ -13,14 +13,15 @@
 		<Row Type="FEATURE_GRAND_MESA" Kind="KIND_FEATURE"/>
 		<Row Type="FEATURE_SALAR_DE_UYUNI" Kind="KIND_FEATURE"/>
 		<Row Type="FEATURE_MOTLATSE_CANYON" Kind="KIND_FEATURE"/>
-		<Row Type="FEATURE_WULINGYUAN" Kind="KIND_FEATURE"/>	
-		
+		<Row Type="FEATURE_WULINGYUAN" Kind="KIND_FEATURE"/>		
 		<Row Type="FEATURE_NAMIB" Kind="KIND_FEATURE"/>
 		<Row Type="FEATURE_MOSI_OA_TUNYA" Kind="KIND_FEATURE"/>
 		<Row Type="FEATURE_VREDEFORT_DOME" Kind="KIND_FEATURE"/>
 		<Row Type="FEATURE_OUNIANGA" Kind="KIND_FEATURE"/>
 		<Row Type="FEATURE_ANGEL_GLACIER" Kind="KIND_FEATURE"/>
 		<Row Type="FEATURE_OKAVANGO_DELTA" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_BIO_BAY" Kind="KIND_FEATURE"/>
+		<Row Type="FEATURE_DALLOL" Kind="KIND_FEATURE"/>		
 	</Types>
 	<Features>
 		<Row FeatureType="FEATURE_GIBRALTAR" Name="Rock of Gibraltar" Tiles="1" FollowRulesInWB="false"/>
@@ -43,6 +44,9 @@
 		<Row FeatureType="FEATURE_OUNIANGA" Name="Lakes of Ounianga" Tiles="2" FollowRulesInWB="false"/>
 		<Row FeatureType="FEATURE_ANGEL_GLACIER" Name="Angel Glacier" Tiles="1" FollowRulesInWB="false"/>
 		<Row FeatureType="FEATURE_OKAVANGO_DELTA" Name="Okavango Delta" Tiles="3" FollowRulesInWB="false"/>
+
+		<Row FeatureType="FEATURE_BIO_BAY" Name="Biolum Bay" Tiles="1" FollowRulesInWB="false"/>
+		<Row FeatureType="FEATURE_DALLOL" Name="Dallol" Tiles="1" FollowRulesInWB="false"/>	
 	</Features>
 	<Feature_ValidTerrains>
 		<Row FeatureType="FEATURE_GIBRALTAR" TerrainType="TERRAIN_COAST"/>
@@ -174,8 +178,7 @@
 		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_DESERT_HILLS"/>
 		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_GRASS_HILLS"/>
 		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_PLAINS_HILLS"/>
-		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_TUNDRA_HILLS"/>
-		
+		<Row FeatureType="FEATURE_WULINGYUAN" TerrainType="TERRAIN_TUNDRA_HILLS"/>	
 		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_COAST"/>
 		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_OCEAN"/>
 		<Row FeatureType="FEATURE_NAMIB" TerrainType="TERRAIN_DESERT"/>
@@ -236,5 +239,25 @@
 		<Row FeatureType="FEATURE_ANGEL_GLACIER" TerrainType="TERRAIN_GRASS_HILLS"/>
 		<Row FeatureType="FEATURE_ANGEL_GLACIER" TerrainType="TERRAIN_PLAINS_HILLS"/>
 		<Row FeatureType="FEATURE_ANGEL_GLACIER" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_BIO_BAY" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_COAST"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_OCEAN"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_DESERT"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_GRASS"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_PLAINS"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_TUNDRA"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row FeatureType="FEATURE_DALLOL" TerrainType="TERRAIN_TUNDRA_HILLS"/>
 	</Feature_ValidTerrains>
 </GameInfo>

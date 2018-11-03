@@ -22,6 +22,10 @@
 			<m_ObjectName text="RES_Silver_Rock_Indiv_03"/>
 		</Element>
 		<Element>
+			<m_EntryID text="Dead_Tree_A_Lg"/>
+			<m_ObjectName text="Dead_Tree_A_Lg"/>
+		</Element>
+		<Element>
 			<m_EntryID text="Dead_Tree_B_Lg"/>
 			<m_ObjectName text="Dead_Tree_B_Lg"/>
 		</Element>
@@ -30,12 +34,8 @@
 			<m_ObjectName text="Dead_Tree_C_Lg"/>
 		</Element>
 		<Element>
-			<m_EntryID text="Dead_Tree_B_Sm"/>
-			<m_ObjectName text="Dead_Tree_B_Sm"/>
-		</Element>
-		<Element>
-			<m_EntryID text="Dead_Tree_C_Sm"/>
-			<m_ObjectName text="Dead_Tree_C_Sm"/>
+			<m_EntryID text="Dead_Tree_D_Lg"/>
+			<m_ObjectName text="Dead_Tree_D_Lg"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
