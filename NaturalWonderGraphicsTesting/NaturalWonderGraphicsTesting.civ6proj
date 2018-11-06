@@ -98,6 +98,9 @@
     <Content Include="Assets\NWON_Vredefort.ast">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Assets\TileBase_Tropical_Fish.ast">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Assets\RES_Silver_Decal01_Sm.ast">
       <SubType>Content</SubType>
     </Content>
@@ -204,6 +207,9 @@
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\Pillaged_Foliage2.mtl">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Materials\RES_Fish_x2.mtl">
       <SubType>Content</SubType>
     </Content>
     <Content Include="Materials\RiverMod.mtl">
