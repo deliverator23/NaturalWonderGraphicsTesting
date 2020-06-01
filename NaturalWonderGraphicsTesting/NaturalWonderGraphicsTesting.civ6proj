@@ -23,7 +23,7 @@
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="Mod.Art.xml" />
+    <None Include="NaturalWonderGraphicsTesting.Art.xml" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="ArtDefs\Clutter.artdef">
